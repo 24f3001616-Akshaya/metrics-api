@@ -11,7 +11,7 @@ from starlette.responses import Response
 app = FastAPI()
 
 ALLOWED_ORIGIN = "https://dash-0afntn.example.com"
-EMAIL = "YOUR_ACTUAL_REGISTERED_EMAIL"
+EMAIL = "24f3001616@ds.study.iitm.ac.in"
 
 
 @app.middleware("http")
